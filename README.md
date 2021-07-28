@@ -2,3 +2,4 @@
 learn go
 zsh
 dihe
+shanxi
